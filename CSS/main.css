@@ -155,4 +155,17 @@ a {
     .card--work-history {
         border-left: none;
     }
+
+#wrapper--techstack__items {
+    display: flex;
+    justify-content: center;
+}
+
+    h1, h2, #email {
+        text-align: center;
+    }
+}
+
+#username, #bio {
+    text-align: center;
 }
